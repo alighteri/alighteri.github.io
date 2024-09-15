@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://alighteri.github.io/sitemap.html.gz
+Sitemap: https://alighteri.github.io/app/sitemap.html.gz
+Sitemap: https://alighteri.github.io/assets/sitemap.html.gz
+Sitemap: https://alighteri.github.io/css/sitemap.html.gz
+Sitemap: https://alighteri.github.io/includes/sitemap.html.gz
+Sitemap: https://alighteri.github.io/item/sitemap.html.gz
+Sitemap: https://alighteri.github.io/src/sitemap.html.gz
